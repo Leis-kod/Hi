@@ -1,0 +1,7 @@
+C:\Users\alina\source\repos\ExamGit\ExamGit\bin\Debug\ExamGit.exe.config
+C:\Users\alina\source\repos\ExamGit\ExamGit\bin\Debug\ExamGit.exe
+C:\Users\alina\source\repos\ExamGit\ExamGit\bin\Debug\ExamGit.pdb
+C:\Users\alina\source\repos\ExamGit\ExamGit\obj\Debug\ExamGit.csprojAssemblyReference.cache
+C:\Users\alina\source\repos\ExamGit\ExamGit\obj\Debug\ExamGit.csproj.CoreCompileInputs.cache
+C:\Users\alina\source\repos\ExamGit\ExamGit\obj\Debug\ExamGit.exe
+C:\Users\alina\source\repos\ExamGit\ExamGit\obj\Debug\ExamGit.pdb
